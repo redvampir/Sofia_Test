@@ -1,0 +1,22 @@
+{
+  "type": "index-branch",
+  "category": "lessons",
+  "files": [
+    {
+      "title": "Example Lesson",
+      "file": "lessons/04_example.md",
+      "tags": [],
+      "aliases": [],
+      "context_priority": "high"
+    },
+    {
+      "title": "Intro Lesson",
+      "file": "lessons/intro.md",
+      "tags": [
+        "intro"
+      ],
+      "aliases": [],
+      "context_priority": "medium"
+    }
+  ]
+}

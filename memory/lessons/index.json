@@ -10,17 +10,6 @@
       "context_priority": "high"
     },
     {
-      "context_priority": "high",
-      "last_accessed": "2025-06-29T21:34:58.267Z",
-      "access_count": 0,
-      "edit_count": 0,
-      "pinned": false,
-      "title": "Lesson1",
-      "type": "lesson",
-      "lastModified": "2025-06-29T21:34:58.267Z",
-      "file": "lessons/lesson1.md"
-    },
-    {
       "title": "Intro Lesson",
       "file": "lessons/intro.md",
       "tags": [
